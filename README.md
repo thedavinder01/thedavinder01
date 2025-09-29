@@ -14,10 +14,10 @@
 
 ## 🎓 Qualification  
 
-- 📘 **Diploma in Computer Science Engineering (CSE)** – Punjab State Board of Technical Education  
-- 📕 **ITI in Electrician Trade** – Industrial Training Institute  
 - 📙 **12th (Economics & Polity)** – Senior Secondary Education  
+- 📕 **ITI in Electrician Trade** – Industrial Training Institute  
 - 📗 **3 Months Training – ICICI Academy for Skills, Mohali** (Electrical & Home Appliance Skills)  
+- 📘 **Diploma in Computer Science Engineering (CSE)** – Punjab State Board of Technical Education  
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 💻 Programming & Development  
 - Python (GUI, Data Handling, Encryption/Decryption)  
-- C & C++ (Embedded Systems & Logic Building)  
-- Web Development (HTML, CSS, Bootstrap)  
+- C & (Embedded Systems & Logic Building)  
+- Web Development (HTML, CSS, java script)  
 
 ### ⚡ Electronics & Hardware  
 - Arduino & IoT Projects  
@@ -57,11 +57,6 @@
 ⚡ [**Resistance Calculator (Python)**](https://github.com/thedavinder01/Resistance-Value-calculate-using-Python-)  
 > Calculates resistance values quickly & accurately for electronics projects.  
 
-🌞 [**Solar Panel Setup Designer**](#)  
-> Design & monitor solar systems with live power calculations for efficiency.  
-
-⚙️ [**DC Motor Efficiency Monitor**](#)  
-> Arduino & Python based system to measure current losses & optimize motor efficiency.  
 
 ---
 
