@@ -4,25 +4,28 @@
 ---
 
 ## 👨‍💻 About Me  
-🔹 Passionate about **Python Development, IoT Systems, and Electronics Projects**  
+🔹 Passionate about **Python Development, IoT Systems & Electronics Projects**  
 🔹 Focused on **Secure Communication Systems, Robotics & EV Charging Solutions**  
-🔹 Exploring **AI, Drones, and Smart Technology**  
+🔹 Exploring **AI, Drones & Smart Technology**  
 🔹 Believer in "Learning by Building" 🚀  
+🔹 Goal: "Creating smart, sustainable tech solutions to solve real-world problems" 🌍  
 
 ---
 
 ## 🎓 Qualification  
+
 - 📘 **Diploma in Computer Science Engineering (CSE)** – Punjab State Board of Technical Education  
-- 📕 Special focus on **Digital Electronics, Data  IoT, and Secure Communication Systems**  
-- 📗 Completed multiple **Mini & Major Projects** in Electronics + Software Integration  
+- 📕 **ITI in Electrician Trade** – Industrial Training Institute  
+- 📙 **12th (Economics & Polity)** – Senior Secondary Education  
+- 📗 **3 Months Training – ICICI Academy for Skills, Mohali** (Electrical & Home Appliance Skills)  
 
 ---
 
-## 🧑‍🔬 What I Know  
+## 🧑‍🔬 Skills  
 
 ### 💻 Programming & Development  
 - Python (GUI, Data Handling, Encryption/Decryption)  
-- C  
+- C & C++ (Embedded Systems & Logic Building)  
 - Web Development (HTML, CSS, Bootstrap)  
 
 ### ⚡ Electronics & Hardware  
@@ -39,15 +42,28 @@
 
 ---
 
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,git,vscode,linux,html,css,bootstrap" />
+</p>
 
+---
 
 ## 🚀 Featured Projects  
 
 🔐 [**Secure Communication System (Python)**](https://github.com/thedavinder01/Secure-Communication-System-Using-Python-)  
-Encryption & Decryption using Number System for secure communication in battle scenarios.  
+> Encryption & Decryption using Number System for secure communication in battle scenarios.  
 
 ⚡ [**Resistance Calculator (Python)**](https://github.com/thedavinder01/Resistance-Value-calculate-using-Python-)  
-A Python tool to calculate resistance values with accuracy.  
+> Calculates resistance values quickly & accurately for electronics projects.  
+
+🌞 [**Solar Panel Setup Designer**](#)  
+> Design & monitor solar systems with live power calculations for efficiency.  
+
+⚙️ [**DC Motor Efficiency Monitor**](#)  
+> Arduino & Python based system to measure current losses & optimize motor efficiency.  
+
+---
 
 ## 📊 GitHub Analytics  
 <p align="center">
@@ -64,8 +80,9 @@ A Python tool to calculate resistance values with accuracy.
 ## 🌍 Connect With Me  
 <p align="center">
   <a href="mailto:thedavinder1506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://techdavinder.com" target="_blank"><img src="https://img.shields.io/badge/🌐-Portfolio-2ea44f?style=for-the-badge"/></a>
+  <a href="https://github.com/thedavinder01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
