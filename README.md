@@ -1,53 +1,12 @@
 <h1 align="center">✨ Davinder Singh ✨</h1>
 <h3 align="center">Python Developer | IoT & Electronics Innovator | Tech Enthusiast</h3>
 
----
-
-## 👨‍💻 About Me  
-🔹 Passionate about **Python Development, IoT Systems & Electronics Projects**  
-🔹 Focused on **Secure Communication Systems, Robotics & EV Charging Solutions**  
-🔹 Exploring **AI, Drones & Smart Technology**  
-🔹 Believer in "Learning by Building" 🚀  
-🔹 Goal: "Creating smart, sustainable tech solutions to solve real-world problems" 🌍  
-
----
-
 ## 🎓 Qualification  
 
-- 📙 **12th (Economics & Polity)** – Senior Secondary Education  
-- 📕 **ITI in Electrician Trade** – Industrial Training Institute  
+- 📙 **12th (Economics & Polity)** – Goverment Sen.Sec.School(boys) Amloh 
+- 📕 **ITI in Electrician Trade** – Industrial Training Institute  Bassi Pathanna 
 - 📗 **3 Months Training – ICICI Academy for Skills, Mohali** (Electrical & Home Appliance Skills)  
-- 📘 **Diploma in Computer Science Engineering (CSE)** – Punjab State Board of Technical Education  
-
----
-
-## 🧑‍🔬 Skills  
-
-### 💻 Programming & Development  
-- Python (GUI, Data Handling, Encryption/Decryption)  
-- C & (Embedded Systems & Logic Building)  
-- Web Development (HTML, CSS, java script)  
-
-### ⚡ Electronics & Hardware  
-- Arduino & IoT Projects  
-- Robotics & Drone Development  
-- EV Charging Systems & Solar Panel Setup  
-- Digital Electronics & Circuit Designing  
-- DC Motor Efficiency Monitoring  
-
-### 🛠️ Tools & Platforms  
-- Git & GitHub  
-- VS Code, PyCharm  
-- Linux Basics & Shell Scripting  
-
----
-
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,git,vscode,linux,html,css,bootstrap" />
-</p>
-
----
+- 📘 **Diploma in Computer Science Engineering (CSE)** – Thapar Polytechnic collge Patiala.
 
 ## 🚀 Featured Projects  
 
