@@ -30,3 +30,30 @@
 │  MODE       : ALWAYS BUILD                                     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
+ABOUT.ME
+
+I build, secure and experiment with technology across cybersecurity, AI, embedded systems, IoT and Defence-Tech.
+
+🛡️ Cyber Security Analyst
+🎓 CSE Student
+🧠 Exploring AI for cybersecurity and automation
+⚡ Learning C, Embedded C, Arduino, ESP32 and IoT
+🌐 Building web and backend systems
+🤖 Interested in robotics and autonomous systems
+🛰️ Exploring Defence-Tech and secure connected systems
+🔬 Focused on practical projects and continuous research
+🌐 CONNECT.WITH.ME
+<div align="center"> <a href="https://github.com/thedavinder01"> <img src="https://skillicons.dev/icons?i=github" width="60"/> </a> <a href="https://www.linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin" width="60"/> </a> </div>
+🚀 BUILD.LOG
+🛡️ Cybersecurity
+RustScan-Based Network Port Scanner
+
+Network reconnaissance and open-port scanning project.
+
+Secure Radio Frequency Monitoring System
+
+Security-oriented RF monitoring and analysis project.
+
+Secure Communication System Using Python
+
+Encryption/decryption based communication project. 
